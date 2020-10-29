@@ -1,1 +1,2 @@
-- git rm --cached app
+- git rm --cached node_modules
+
